@@ -1,13 +1,9 @@
 # SORLANE
 
-SORLANE builds useful technology around real problems.
+**Thoughtful Technology**
 
-We focus on practical, carefully designed products for consumer and enterprise use.
+SORLANE is a parent technology brand focused on thoughtful, practical products.
 
-## Products
+## Product
 
-Products will be announced as they become ready.
-
-## Website
-
-https://sorlanehq.com
+[TREVIK](https://github.com/trevikapp) is a consumer financial decision-support product by SORLANE.
